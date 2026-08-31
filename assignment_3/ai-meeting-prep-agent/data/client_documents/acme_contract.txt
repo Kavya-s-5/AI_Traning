@@ -1,0 +1,29 @@
+CLIENT: Acme Corp
+
+PROJECT AGREEMENT SUMMARY
+
+The agreement covers implementation of an AI-powered analytics platform.
+
+PROJECT OBJECTIVES
+
+- Improve operational visibility.
+- Automate reporting processes.
+- Provide real-time analytics.
+- Reduce manual reporting effort.
+
+SUCCESS CRITERIA
+
+The implementation is successful when:
+
+- All required data sources are integrated.
+- Core dashboards are operational.
+- Users complete acceptance testing successfully.
+- Manual reporting effort is reduced.
+
+COMMUNICATION
+
+Acme Corp requested weekly project updates and regular progress meetings.
+
+IMPORTANT EXPECTATION
+
+Acme Corp expects early communication regarding potential delays or risks affecting the implementation timeline.

@@ -1,0 +1,26 @@
+CLIENT: Acme Corp
+
+COMPANY OVERVIEW
+
+Acme Corp is a technology and manufacturing company with approximately 2,500 employees operating across North America and Europe.
+
+Acme Corp became our client in January 2026. They are implementing our AI-powered analytics platform to improve operational reporting and decision-making.
+
+KEY STAKEHOLDERS
+
+Sarah Johnson – Director of Operations
+Primary business stakeholder responsible for the analytics implementation.
+
+Michael Brown – Head of Technology
+Responsible for technical integration and infrastructure.
+
+Emily Davis – Project Manager
+Coordinates implementation activities and communication.
+
+CLIENT PRIORITIES
+
+1. Successful implementation of the analytics platform.
+2. Improved operational reporting.
+3. Integration with existing internal systems.
+4. Reduction of manual reporting activities.
+5. Completion before the end of Q4 2026.

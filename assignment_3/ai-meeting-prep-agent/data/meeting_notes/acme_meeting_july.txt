@@ -1,0 +1,36 @@
+CLIENT: Acme Corp
+
+MEETING DATE: July 15, 2026
+
+ATTENDEES
+
+Sarah Johnson – Director of Operations
+Michael Brown – Head of Technology
+Emily Davis – Project Manager
+
+DISCUSSION
+
+The project team reviewed progress on the analytics platform implementation.
+
+The client was satisfied with the initial dashboard configuration but requested additional operational metrics.
+
+The technical team discussed the ongoing integration with the internal inventory system.
+
+DECISIONS
+
+- Additional operational metrics will be added to the dashboards.
+- The technical teams will continue working on the inventory system integration.
+
+ACTION ITEMS
+
+1. Provide a list of proposed operational metrics.
+Owner: Analytics Team
+Status: Completed
+
+2. Resolve inventory system API authentication issues.
+Owner: Technical Team
+Status: Open
+
+3. Share an updated project timeline.
+Owner: Project Team
+Status: Open

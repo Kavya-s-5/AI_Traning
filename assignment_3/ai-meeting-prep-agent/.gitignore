@@ -1,0 +1,19 @@
+# Virtual Environment
+myenv/
+venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+
+# ChromaDB generated files
+chroma_db/
+
+# OS files
+.DS_Store

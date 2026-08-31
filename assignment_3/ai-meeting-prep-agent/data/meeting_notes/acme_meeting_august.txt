@@ -1,0 +1,38 @@
+CLIENT: Acme Corp
+
+MEETING DATE: August 12, 2026
+
+ATTENDEES
+
+Sarah Johnson – Director of Operations
+Emily Davis – Project Manager
+
+DISCUSSION
+
+The team reviewed data migration progress.
+
+Approximately 85 percent of historical data has been migrated.
+
+The remaining data requires cleaning because of formatting inconsistencies and duplicate records.
+
+Sarah Johnson expressed concern about whether the API integration delay could impact the implementation timeline.
+
+DECISIONS
+
+- The technical team will prioritize resolving the API authentication issue.
+- The project team will provide a revised implementation timeline.
+
+OPEN ACTION ITEMS
+
+1. Resolve API authentication issue.
+Owner: Technical Team
+
+2. Complete remaining data migration.
+Owner: Data Team
+
+3. Provide revised implementation timeline.
+Owner: Project Manager
+
+CLIENT CONCERNS
+
+Sarah Johnson requested early communication about potential delays affecting the implementation schedule.
