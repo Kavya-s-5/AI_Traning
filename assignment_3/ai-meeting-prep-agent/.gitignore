@@ -16,4 +16,4 @@ __pycache__/
 chroma_db/
 
 # OS files
-.DS_Store
+.DS_Store.env
